@@ -19,7 +19,7 @@ const Reservation = () => {
             BOOK YOUR TABLE
           </span>
           <p className="text-base md:text-xl text-center">
-            {`Ready to enjoy a meal at Le SALAMA? We've made it easy to reserve your table:`}
+            {`Ready to enjoy a meal at Casa Lalla Takerkoust? We've made it easy to reserve your table:`}
             <br />
             {`Give us a call or Send a WhatsApp message to `}
             <Link
